@@ -1,7 +1,7 @@
 html, body {
   background-color: #212121;
   height: 100%;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   box-sizing: border-box;
 }
 
@@ -215,7 +215,7 @@ Main components
   .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
     font-size: 14px;
     font-size: 0.875rem;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 100;
   }
 }
@@ -284,7 +284,7 @@ a:visited {
     #mailchimp input {
          border: medium none;
     color: gray;
-    font-family: Roboto;
+    font-family: Montserrat;
     font-size: 16px;
     margin-bottom: 10px;
     padding: 10px 10px;
